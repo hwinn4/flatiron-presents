@@ -6,7 +6,7 @@
 #boroughs {
   stroke: grey;
   stroke-width: 2px;
-  fill: steelblue;
+  fill: #0000FF;
 }
 </style>
 
@@ -16,8 +16,8 @@
 
 <script>
 
-var width = 960,
-   height = 500;
+var width = 1550,
+   height = 1000;
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
@@ -29,7 +29,7 @@ var svg = d3.select("body").append("svg")
 
     var projection = d3.geo.mercator()
             .center([-73.94, 40.70])
-            .scale(50000)
+            .scale(90000)
             .translate([(width) / 2, (height)/2]);
 
   var path = d3.geo.path()
