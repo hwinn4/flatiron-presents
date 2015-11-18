@@ -97,9 +97,11 @@ var svg = d3.select("#map").append("svg")
         return d.properties.neighborhood;
       })
       .attr("d", path) // "d" = path
-      .on('click', function(event){
+      .on('click', function(){
+        // What is the default?
+        d3.event.preventDefault();
         var name = $(this).text();
-        showData(event, name);
+        showData(name);
         }); 
   });
 
