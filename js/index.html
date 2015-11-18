@@ -13,40 +13,24 @@
   fill: gray;
 }*/
 
-svg {
-  margin-left: 100px;
-}
-
-
 path:hover {
   fill:red;  
-}
-
-#container{
-  width: 1000px;
-}
-
-#neighborhood_details{
-  margin-left: 100px;
 }
 
 </style>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="app.js"></script>
 </head>
-
 <body>
   <div id="neighborhood_details">
-      <h2 id="name">Click on a neighborhood for details</h2>
+    <p>Click on a neighborhood for details</p>
   </div>
- 
 
 <script>
 
 // set width and height vars
-var width = 1000,
+var width = 1550,
    height = 1000;
 
 // creates the root svg element
@@ -87,17 +71,19 @@ var svg = d3.select("body").append("svg")
       .data(nyb.features) // bind data to each row?
       .enter().append("path") // create path element for each feature
       .attr("id", "neighborhood") // assign each path el an id
-      .attr("class", function(d){ return d.properties.borough; }) // class = neigh and borough
+      .attr("class", function(d){ return d.properties.neighborhood; }) // class if neighborhood name
+      .attr("d", path) // "d" = path
+      .attr('x', function(d){
+        return path.centroid(d)[0];
+      })
+      .attr('y', function(d){
+        return path.centroid(d)[1];
+      })
       .text(function(d){
         return d.properties.neighborhood;
       })
-      .attr("d", path) // "d" = path
       .on('click', function(d,i){
-        var name = $(this).text();
-        // debugger;
-        var borough = this.attributes.class.value
-        var html = "<h2>" + name + "</h2>" + "<h3>Borough: " + borough + "</h3>"
-        $('#neighborhood_details').html(html);
+        console.log($(this).text());
       });
   });
 
