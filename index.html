@@ -42,6 +42,12 @@ svg{
 </head>
 
 <body>
+  <div id="featured_neighborhoods">
+    <ul id="neighborhoods_list">
+      <li class="n_name">Upper West Side</li>
+      <li class="n_name">Clinton Hill</li>
+    </ul>
+  </div>
   <div id="neighborhood_details">
       <h2 id="name">Click on a neighborhood for details</h2>
   </div>
@@ -91,8 +97,8 @@ var svg = d3.select("#map").append("svg")
       .selectAll(".row") // select all rows in feature collection
       .data(nyb.features) // bind data to each row?
       .enter().append("path") // create path element for each feature
-      .attr("id", "neighborhood") // assign each path el an id
-      .attr("class", function(d){ return d.properties.borough; }) // class = neigh and borough
+      .attr("id", function(d){ return d.properties.neighborhood; }) // assign each path el an id
+      .attr("class", function(d){ return d.properties.borough + " neighborhood"; }) // class = neigh and borough
       .text(function(d){
         return d.properties.neighborhood;
       })
@@ -105,10 +111,6 @@ var svg = d3.select("#map").append("svg")
         }); 
   });
 
-        // DATA FROM GEOJSON:
-        // var borough = this.attributes.class.value
-        // var html = "<h2>" + name + "</h2>" + "<h3>Borough: " + borough + "</h3>"
-        // $('#neighborhood_details').html(html);
 </script>
 </body>
 </html>

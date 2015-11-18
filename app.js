@@ -1,3 +1,9 @@
+$(function(){
+  $('.n_name').click(function(){
+    var path = $(this)
+  })
+})
+
 function showData(name){
     var url = "https://data.cityofnewyork.us/resource/w5g7-dwbx.json?geographic_area_neighborhood_tabulation_area_nta_name=" + name;
     $.ajax({
