@@ -6,11 +6,11 @@
 <meta charset="utf-8">
 
 <style>
-#boroughs {
+/*#neighborhood {
   stroke: grey;
   stroke-width: 2px;
-  fill: #0000FF;
-}
+  fill: gray;
+}*/
 
 path:hover {
   fill:red;  
@@ -69,25 +69,18 @@ var svg = d3.select("body").append("svg")
       .attr("id", "neighborhood") // assign each path el an id
       .attr("class", function(d){ return d.properties.neighborhood; }) // class if neighborhood name
       .attr("d", path) // "d" = path
+      .attr('x', function(d){
+        return path.centroid(d)[0];
+      })
+      .attr('y', function(d){
+        return path.centroid(d)[1];
+      })
+      .text(function(d){
+        return d.properties.neighborhood;
+      })
       .on('click', function(d,i){
-        console.log(i);
+        console.log($(this).text());
       });
-
-    // g.append('text')
-    //   .attr('x', function(d){
-    //     // centroid returns the center of the path (x,y)
-    //     // [0] returns the x coordinate
-    //     return path.centroid(d)[0];
-
-    //   })
-    //   .attr('y', function(d){
-    //     return path.centroid(d)[1];
-    //   })
-    //   .text(function(d){
-    //     return d.properties.neighborhood;
-    //   });
-
-
   });
 
 </script>
