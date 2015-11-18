@@ -1,4 +1,5 @@
 function showData(event, name){
+  // WHY WON'T PREVENT DEFAULT WORK???
   // event.preventDefault();
     var url = "https://data.cityofnewyork.us/resource/w5g7-dwbx.json?geographic_area_neighborhood_tabulation_area_nta_name=" + name;
     $.ajax({
