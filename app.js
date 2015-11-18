@@ -1,6 +1,11 @@
 $(function(){
   $('.n_name').click(function(){
-    var path = $(this)
+    $("path[style]").css("fill","black");
+    var el = $(this);
+    var name = $(el).text();
+    var string = "path[id='" + name + "']";
+    var $path = $(string);
+    $path.css("fill","blue");
   })
 })
 
