@@ -1,0 +1,1562 @@
+[
+  {
+    "Neighborhoods":"Brooklyn Heights-Cobble Hill                                   ",
+    "Borough":"Brooklyn",
+    "Total Population":"23,945",
+    "Hispanic Population":"1,866",
+    "Black Population":"1,171",
+    "Asian Population":"1,607"
+  },
+  {
+    "Neighborhoods":"Sheepshead Bay-Gerritsen Beach-Manhattan Beach                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"63,033",
+    "Hispanic Population":"4,562",
+    "Black Population":"3,888",
+    "Asian Population":"10,015"
+  },
+  {
+    "Neighborhoods":"Brighton Beach                                                 ",
+    "Borough":"Brooklyn",
+    "Total Population":"32,442",
+    "Hispanic Population":"4,334",
+    "Black Population":"419",
+    "Asian Population":"4,413"
+  },
+  {
+    "Neighborhoods":"Seagate-Coney Island                                           ",
+    "Borough":"Brooklyn",
+    "Total Population":"28,748",
+    "Hispanic Population":"6,108",
+    "Black Population":"9,798",
+    "Asian Population":"3,732"
+  },
+  {
+    "Neighborhoods":"West Brighton                                                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"15,309",
+    "Hispanic Population":"121",
+    "Black Population":"163",
+    "Asian Population":"102"
+  },
+  {
+    "Neighborhoods":"Homecrest                                                      ",
+    "Borough":"Brooklyn",
+    "Total Population":"43,198",
+    "Hispanic Population":"3,237",
+    "Black Population":"419",
+    "Asian Population":"4,589"
+  },
+  {
+    "Neighborhoods":"Gravesend                                                      ",
+    "Borough":"Brooklyn",
+    "Total Population":"28,502",
+    "Hispanic Population":"3,850",
+    "Black Population":"2,148",
+    "Asian Population":"6,836"
+  },
+  {
+    "Neighborhoods":"Bath Beach                                                     ",
+    "Borough":"Brooklyn",
+    "Total Population":"29,356",
+    "Hispanic Population":"3,862",
+    "Black Population":"487",
+    "Asian Population":"9,139"
+  },
+  {
+    "Neighborhoods":"Bensonhurst West                                               ",
+    "Borough":"Brooklyn",
+    "Total Population":"88,895",
+    "Hispanic Population":"13,024",
+    "Black Population":"558",
+    "Asian Population":"33,185"
+  },
+  {
+    "Neighborhoods":"Bensonhurst East                                               ",
+    "Borough":"Brooklyn",
+    "Total Population":"60,022",
+    "Hispanic Population":"7,047",
+    "Black Population":"735",
+    "Asian Population":"22,034"
+  },
+  {
+    "Neighborhoods":"Dyker Heights                                                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"45,977",
+    "Hispanic Population":"4,580",
+    "Black Population":"250",
+    "Asian Population":"17,673"
+  },
+  {
+    "Neighborhoods":"Bay Ridge                                                      ",
+    "Borough":"Brooklyn",
+    "Total Population":"84,830",
+    "Hispanic Population":"13,923",
+    "Black Population":"1,391",
+    "Asian Population":"12,155"
+  },
+  {
+    "Neighborhoods":"Sunset Park West                                               ",
+    "Borough":"Brooklyn",
+    "Total Population":"56,291",
+    "Hispanic Population":"35,424",
+    "Black Population":"1,852",
+    "Asian Population":"8,395"
+  },
+  {
+    "Neighborhoods":"Carroll Gardens-Columbia Street-Red Hook                       ",
+    "Borough":"Brooklyn",
+    "Total Population":"39,597",
+    "Hispanic Population":"8,558",
+    "Black Population":"4,230",
+    "Asian Population":"2,248"
+  },
+  {
+    "Neighborhoods":"Sunset Park East                                               ",
+    "Borough":"Brooklyn",
+    "Total Population":"72,614",
+    "Hispanic Population":"23,465",
+    "Black Population":"1,214",
+    "Asian Population":"37,592"
+  },
+  {
+    "Neighborhoods":"Stuyvesant Heights                                             ",
+    "Borough":"Brooklyn",
+    "Total Population":"64,752",
+    "Hispanic Population":"13,702",
+    "Black Population":"45,354",
+    "Asian Population":"1,826"
+  },
+  {
+    "Neighborhoods":"Park Slope-Gowanus                                             ",
+    "Borough":"Brooklyn",
+    "Total Population":"73,770",
+    "Hispanic Population":"12,938",
+    "Black Population":"3,941",
+    "Asian Population":"4,906"
+  },
+  {
+    "Neighborhoods":"DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"37,442",
+    "Hispanic Population":"8,609",
+    "Black Population":"8,141",
+    "Asian Population":"3,298"
+  },
+  {
+    "Neighborhoods":"Windsor Terrace                                                ",
+    "Borough":"Brooklyn",
+    "Total Population":"21,983",
+    "Hispanic Population":"3,054",
+    "Black Population":"1,337",
+    "Asian Population":"2,344"
+  },
+  {
+    "Neighborhoods":"Kensington-Ocean Parkway                                       ",
+    "Borough":"Brooklyn",
+    "Total Population":"36,935",
+    "Hispanic Population":"5,264",
+    "Black Population":"2,892",
+    "Asian Population":"9,100"
+  },
+  {
+    "Neighborhoods":"Flatbush                                                       ",
+    "Borough":"Brooklyn",
+    "Total Population":"105,491",
+    "Hispanic Population":"18,893",
+    "Black Population":"51,360",
+    "Asian Population":"9,332"
+  },
+  {
+    "Neighborhoods":"Midwood                                                        ",
+    "Borough":"Brooklyn",
+    "Total Population":"50,921",
+    "Hispanic Population":"3,643",
+    "Black Population":"2,373",
+    "Asian Population":"5,059"
+  },
+  {
+    "Neighborhoods":"Madison                                                        ",
+    "Borough":"Brooklyn",
+    "Total Population":"40,479",
+    "Hispanic Population":"2,645",
+    "Black Population":"270",
+    "Asian Population":"8,788"
+  },
+  {
+    "Neighborhoods":"Georgetown-Marine Park-Bergen Beach-Mill Basi                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"47,810",
+    "Hispanic Population":"4,524",
+    "Black Population":"5,249",
+    "Asian Population":"2,478"
+  },
+  {
+    "Neighborhoods":"Ocean Parkway South                                            ",
+    "Borough":"Brooklyn",
+    "Total Population":"19,877",
+    "Hispanic Population":"1,698",
+    "Black Population":"97",
+    "Asian Population":"721"
+  },
+  {
+    "Neighborhoods":"Canarsie                                                       ",
+    "Borough":"Brooklyn",
+    "Total Population":"86,491",
+    "Hispanic Population":"6,749",
+    "Black Population":"71,367",
+    "Asian Population":"2,402"
+  },
+  {
+    "Neighborhoods":"Flatlands                                                      ",
+    "Borough":"Brooklyn",
+    "Total Population":"71,015",
+    "Hispanic Population":"5,494",
+    "Black Population":"49,785",
+    "Asian Population":"2,257"
+  },
+  {
+    "Neighborhoods":"Prospect Lefferts Gardens-Wingate                              ",
+    "Borough":"Brooklyn",
+    "Total Population":"68,664",
+    "Hispanic Population":"6,841",
+    "Black Population":"51,313",
+    "Asian Population":"1,389"
+  },
+  {
+    "Neighborhoods":"Crown Heights North                                            ",
+    "Borough":"Brooklyn",
+    "Total Population":"102,336",
+    "Hispanic Population":"11,836",
+    "Black Population":"73,218",
+    "Asian Population":"2,826"
+  },
+  {
+    "Neighborhoods":"Crown Heights South                                            ",
+    "Borough":"Brooklyn",
+    "Total Population":"41,262",
+    "Hispanic Population":"3,729",
+    "Black Population":"25,719",
+    "Asian Population":"659"
+  },
+  {
+    "Neighborhoods":"Prospect Heights                                               ",
+    "Borough":"Brooklyn",
+    "Total Population":"20,919",
+    "Hispanic Population":"2,806",
+    "Black Population":"5,149",
+    "Asian Population":"1,478"
+  },
+  {
+    "Neighborhoods":"Fort Greene                                                    ",
+    "Borough":"Brooklyn",
+    "Total Population":"28,023",
+    "Hispanic Population":"5,560",
+    "Black Population":"11,019",
+    "Asian Population":"2,500"
+  },
+  {
+    "Neighborhoods":"Clinton Hill                                                   ",
+    "Borough":"Brooklyn",
+    "Total Population":"36,452",
+    "Hispanic Population":"5,856",
+    "Black Population":"13,284",
+    "Asian Population":"1,844"
+  },
+  {
+    "Neighborhoods":"Williamsburg                                                   ",
+    "Borough":"Brooklyn",
+    "Total Population":"31,723",
+    "Hispanic Population":"3,071",
+    "Black Population":"785",
+    "Asian Population":"35"
+  },
+  {
+    "Neighborhoods":"North Side-South Side                                          ",
+    "Borough":"Brooklyn",
+    "Total Population":"49,551",
+    "Hispanic Population":"19,017",
+    "Black Population":"1,165",
+    "Asian Population":"2,490"
+  },
+  {
+    "Neighborhoods":"Bedford                                                        ",
+    "Borough":"Brooklyn",
+    "Total Population":"71,078",
+    "Hispanic Population":"13,086",
+    "Black Population":"33,640",
+    "Asian Population":"2,090"
+  },
+  {
+    "Neighborhoods":"Greenpoint                                                     ",
+    "Borough":"Brooklyn",
+    "Total Population":"31,875",
+    "Hispanic Population":"4,433",
+    "Black Population":"340",
+    "Asian Population":"1,810"
+  },
+  {
+    "Neighborhoods":"Bushwick North                                                 ",
+    "Borough":"Brooklyn",
+    "Total Population":"63,780",
+    "Hispanic Population":"46,692",
+    "Black Population":"5,747",
+    "Asian Population":"3,768"
+  },
+  {
+    "Neighborhoods":"Bushwick South                                                 ",
+    "Borough":"Brooklyn",
+    "Total Population":"73,958",
+    "Hispanic Population":"44,553",
+    "Black Population":"18,790",
+    "Asian Population":"1,820"
+  },
+  {
+    "Neighborhoods":"Ocean Hill                                                     ",
+    "Borough":"Brooklyn",
+    "Total Population":"31,558",
+    "Hispanic Population":"5,492",
+    "Black Population":"24,766",
+    "Asian Population":"248"
+  },
+  {
+    "Neighborhoods":"Brownsville                                                    ",
+    "Borough":"Brooklyn",
+    "Total Population":"58,463",
+    "Hispanic Population":"10,095",
+    "Black Population":"46,595",
+    "Asian Population":"494"
+  },
+  {
+    "Neighborhoods":"East New York                                                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"92,806",
+    "Hispanic Population":"25,455",
+    "Black Population":"62,397",
+    "Asian Population":"1,937"
+  },
+  {
+    "Neighborhoods":"Cypress Hills-City Line                                        ",
+    "Borough":"Brooklyn",
+    "Total Population":"46,545",
+    "Hispanic Population":"28,370",
+    "Black Population":"11,438",
+    "Asian Population":"3,131"
+  },
+  {
+    "Neighborhoods":"East New York (Pennsylvania Ave)                               ",
+    "Borough":"Brooklyn",
+    "Total Population":"29,906",
+    "Hispanic Population":"9,046",
+    "Black Population":"20,219",
+    "Asian Population":"236"
+  },
+  {
+    "Neighborhoods":"Borough Park                                                   ",
+    "Borough":"Brooklyn",
+    "Total Population":"106,342",
+    "Hispanic Population":"11,245",
+    "Black Population":"587",
+    "Asian Population":"13,515"
+  },
+  {
+    "Neighborhoods":"East Williamsburg                                              ",
+    "Borough":"Brooklyn",
+    "Total Population":"33,675",
+    "Hispanic Population":"10,966",
+    "Black Population":"2,727",
+    "Asian Population":"3,793"
+  },
+  {
+    "Neighborhoods":"East Flatbush-Farragut                                         ",
+    "Borough":"Brooklyn",
+    "Total Population":"52,714",
+    "Hispanic Population":"3,072",
+    "Black Population":"47,407",
+    "Asian Population":"497"
+  },
+  {
+    "Neighborhoods":"Starrett City                                                  ",
+    "Borough":"Brooklyn",
+    "Total Population":"12,848",
+    "Hispanic Population":"2,909",
+    "Black Population":"5,858",
+    "Asian Population":"496"
+  },
+  {
+    "Neighborhoods":"Erasmus                                                        ",
+    "Borough":"Brooklyn",
+    "Total Population":"29,088",
+    "Hispanic Population":"2,756",
+    "Black Population":"24,711",
+    "Asian Population":"672"
+  },
+  {
+    "Neighborhoods":"Rugby-Remsen Village                                           ",
+    "Borough":"Brooklyn",
+    "Total Population":"56,135",
+    "Hispanic Population":"2,626",
+    "Black Population":"51,354",
+    "Asian Population":"549"
+  },
+  {
+    "Neighborhoods":"park-cemetery-etc-Brooklyn                                     ",
+    "Borough":"Brooklyn",
+    "Total Population":"",
+    "Hispanic Population":"",
+    "Black Population":"",
+    "Asian Population":""
+  },
+  {
+    "Neighborhoods":"Claremont-Bathgate                                             ",
+    "Borough":"Bronx",
+    "Total Population":"31,566",
+    "Hispanic Population":"17,463",
+    "Black Population":"13,321",
+    "Asian Population":"38"
+  },
+  {
+    "Neighborhoods":"Eastchester-Edenwald-Baychester                                ",
+    "Borough":"Bronx",
+    "Total Population":"36,523",
+    "Hispanic Population":"8,548",
+    "Black Population":"25,705",
+    "Asian Population":"129"
+  },
+  {
+    "Neighborhoods":"Bedford Park-Fordham North                                     ",
+    "Borough":"Bronx",
+    "Total Population":"53,053",
+    "Hispanic Population":"37,105",
+    "Black Population":"8,641",
+    "Asian Population":"2,209"
+  },
+  {
+    "Neighborhoods":"Belmont                                                        ",
+    "Borough":"Bronx",
+    "Total Population":"26,180",
+    "Hispanic Population":"15,245",
+    "Black Population":"4,691",
+    "Asian Population":"460"
+  },
+  {
+    "Neighborhoods":"Bronxdale                                                      ",
+    "Borough":"Bronx",
+    "Total Population":"34,506",
+    "Hispanic Population":"17,493",
+    "Black Population":"10,408",
+    "Asian Population":"1,464"
+  },
+  {
+    "Neighborhoods":"West Farms-Bronx River                                         ",
+    "Borough":"Bronx",
+    "Total Population":"35,836",
+    "Hispanic Population":"23,347",
+    "Black Population":"9,338",
+    "Asian Population":"1,279"
+  },
+  {
+    "Neighborhoods":"Soundview-Castle Hill-Clason Point-Harding Pa                  ",
+    "Borough":"Bronx",
+    "Total Population":"53,922",
+    "Hispanic Population":"32,878",
+    "Black Population":"18,550",
+    "Asian Population":"976"
+  },
+  {
+    "Neighborhoods":"Pelham Bay-Country Club-City Island                            ",
+    "Borough":"Bronx",
+    "Total Population":"26,618",
+    "Hispanic Population":"8,865",
+    "Black Population":"568",
+    "Asian Population":"1,112"
+  },
+  {
+    "Neighborhoods":"Co-Op City                                                     ",
+    "Borough":"Bronx",
+    "Total Population":"45,986",
+    "Hispanic Population":"13,621",
+    "Black Population":"27,365",
+    "Asian Population":"608"
+  },
+  {
+    "Neighborhoods":"East Concourse-Concourse Village                               ",
+    "Borough":"Bronx",
+    "Total Population":"62,937",
+    "Hispanic Population":"37,329",
+    "Black Population":"22,546",
+    "Asian Population":"971"
+  },
+  {
+    "Neighborhoods":"East Tremont                                                   ",
+    "Borough":"Bronx",
+    "Total Population":"43,156",
+    "Hispanic Population":"29,613",
+    "Black Population":"11,866",
+    "Asian Population":"496"
+  },
+  {
+    "Neighborhoods":"North Riverdale-Fieldston-Riverdale                            ",
+    "Borough":"Bronx",
+    "Total Population":"26,770",
+    "Hispanic Population":"4,796",
+    "Black Population":"1,840",
+    "Asian Population":"1,989"
+  },
+  {
+    "Neighborhoods":"Highbridge                                                     ",
+    "Borough":"Bronx",
+    "Total Population":"37,304",
+    "Hispanic Population":"24,097",
+    "Black Population":"12,491",
+    "Asian Population":"127"
+  },
+  {
+    "Neighborhoods":"Hunts Point                                                    ",
+    "Borough":"Bronx",
+    "Total Population":"27,666",
+    "Hispanic Population":"21,027",
+    "Black Population":"5,813",
+    "Asian Population":"55"
+  },
+  {
+    "Neighborhoods":"Van Cortlandt Village                                          ",
+    "Borough":"Bronx",
+    "Total Population":"50,185",
+    "Hispanic Population":"32,676",
+    "Black Population":"9,581",
+    "Asian Population":"1,571"
+  },
+  {
+    "Neighborhoods":"Spuyten Duyvil-Kingsbridge                                     ",
+    "Borough":"Bronx",
+    "Total Population":"30,053",
+    "Hispanic Population":"10,722",
+    "Black Population":"2,247",
+    "Asian Population":"1,601"
+  },
+  {
+    "Neighborhoods":"Kingsbridge Heights                                            ",
+    "Borough":"Bronx",
+    "Total Population":"29,981",
+    "Hispanic Population":"21,175",
+    "Black Population":"6,316",
+    "Asian Population":"1,487"
+  },
+  {
+    "Neighborhoods":"Allerton-Pelham Gardens                                        ",
+    "Borough":"Bronx",
+    "Total Population":"33,408",
+    "Hispanic Population":"10,353",
+    "Black Population":"10,545",
+    "Asian Population":"2,463"
+  },
+  {
+    "Neighborhoods":"Longwood                                                       ",
+    "Borough":"Bronx",
+    "Total Population":"26,718",
+    "Hispanic Population":"19,323",
+    "Black Population":"6,570",
+    "Asian Population":"234"
+  },
+  {
+    "Neighborhoods":"Melrose South-Mott Haven North                                 ",
+    "Borough":"Bronx",
+    "Total Population":"39,482",
+    "Hispanic Population":"26,460",
+    "Black Population":"11,281",
+    "Asian Population":"204"
+  },
+  {
+    "Neighborhoods":"Morrisania-Melrose                                             ",
+    "Borough":"Bronx",
+    "Total Population":"37,926",
+    "Hispanic Population":"23,505",
+    "Black Population":"13,200",
+    "Asian Population":"125"
+  },
+  {
+    "Neighborhoods":"University Heights-Morris Heights                              ",
+    "Borough":"Bronx",
+    "Total Population":"54,132",
+    "Hispanic Population":"35,605",
+    "Black Population":"16,211",
+    "Asian Population":"772"
+  },
+  {
+    "Neighborhoods":"Van Nest-Morris Park-Westchester Square                        ",
+    "Borough":"Bronx",
+    "Total Population":"29,768",
+    "Hispanic Population":"16,490",
+    "Black Population":"2,809",
+    "Asian Population":"2,666"
+  },
+  {
+    "Neighborhoods":"Mott Haven-Port Morris                                         ",
+    "Borough":"Bronx",
+    "Total Population":"52,971",
+    "Hispanic Population":"37,821",
+    "Black Population":"13,469",
+    "Asian Population":"399"
+  },
+  {
+    "Neighborhoods":"Fordham South                                                  ",
+    "Borough":"Bronx",
+    "Total Population":"26,947",
+    "Hispanic Population":"19,247",
+    "Black Population":"6,795",
+    "Asian Population":"235"
+  },
+  {
+    "Neighborhoods":"Mount Hope                                                     ",
+    "Borough":"Bronx",
+    "Total Population":"52,435",
+    "Hispanic Population":"36,046",
+    "Black Population":"13,676",
+    "Asian Population":"989"
+  },
+  {
+    "Neighborhoods":"Norwood                                                        ",
+    "Borough":"Bronx",
+    "Total Population":"41,549",
+    "Hispanic Population":"24,139",
+    "Black Population":"7,951",
+    "Asian Population":"4,079"
+  },
+  {
+    "Neighborhoods":"Williamsbridge-Olinville                                       ",
+    "Borough":"Bronx",
+    "Total Population":"62,345",
+    "Hispanic Population":"14,164",
+    "Black Population":"44,260",
+    "Asian Population":"969"
+  },
+  {
+    "Neighborhoods":"Parkchester                                                    ",
+    "Borough":"Bronx",
+    "Total Population":"30,435",
+    "Hispanic Population":"10,269",
+    "Black Population":"13,871",
+    "Asian Population":"4,656"
+  },
+  {
+    "Neighborhoods":"Pelham Parkway                                                 ",
+    "Borough":"Bronx",
+    "Total Population":"30,249",
+    "Hispanic Population":"11,749",
+    "Black Population":"2,997",
+    "Asian Population":"3,461"
+  },
+  {
+    "Neighborhoods":"Schuylerville-Throgs Neck-Edgewater Park                       ",
+    "Borough":"Bronx",
+    "Total Population":"47,622",
+    "Hispanic Population":"19,099",
+    "Black Population":"3,864",
+    "Asian Population":"1,467"
+  },
+  {
+    "Neighborhoods":"Soundview-Bruckner                                             ",
+    "Borough":"Bronx",
+    "Total Population":"36,306",
+    "Hispanic Population":"22,588",
+    "Black Population":"8,864",
+    "Asian Population":"2,588"
+  },
+  {
+    "Neighborhoods":"Westchester-Unionport                                          ",
+    "Borough":"Bronx",
+    "Total Population":"28,035",
+    "Hispanic Population":"17,581",
+    "Black Population":"4,340",
+    "Asian Population":"3,698"
+  },
+  {
+    "Neighborhoods":"Woodlawn-Wakefield                                             ",
+    "Borough":"Bronx",
+    "Total Population":"44,676",
+    "Hispanic Population":"7,638",
+    "Black Population":"27,271",
+    "Asian Population":"1,473"
+  },
+  {
+    "Neighborhoods":"West Concourse                                                 ",
+    "Borough":"Bronx",
+    "Total Population":"39,234",
+    "Hispanic Population":"27,518",
+    "Black Population":"9,024",
+    "Asian Population":"1,374"
+  },
+  {
+    "Neighborhoods":"Crotona Park East                                              ",
+    "Borough":"Bronx",
+    "Total Population":"20,075",
+    "Hispanic Population":"13,872",
+    "Black Population":"5,569",
+    "Asian Population":"126"
+  },
+  {
+    "Neighborhoods":"Rikers Island                                                  ",
+    "Borough":"Bronx",
+    "Total Population":"9,191",
+    "Hispanic Population":"3,159",
+    "Black Population":"5,169",
+    "Asian Population":"202"
+  },
+  {
+    "Neighborhoods":"park-cemetery-etc-Bronx                                        ",
+    "Borough":"Bronx",
+    "Total Population":"",
+    "Hispanic Population":"",
+    "Black Population":"",
+    "Asian Population":""
+  },
+  {
+    "Neighborhoods":"Marble Hill-Inwood                                             ",
+    "Borough":"Manhattan",
+    "Total Population":"49,933",
+    "Hispanic Population":"37,338",
+    "Black Population":"3,711",
+    "Asian Population":"719"
+  },
+  {
+    "Neighborhoods":"Central Harlem North-Polo Grounds                              ",
+    "Borough":"Manhattan",
+    "Total Population":"79,373",
+    "Hispanic Population":"18,948",
+    "Black Population":"49,250",
+    "Asian Population":"2,351"
+  },
+  {
+    "Neighborhoods":"Hamilton Heights                                               ",
+    "Borough":"Manhattan",
+    "Total Population":"51,007",
+    "Hispanic Population":"24,926",
+    "Black Population":"16,374",
+    "Asian Population":"859"
+  },
+  {
+    "Neighborhoods":"Manhattanville                                                 ",
+    "Borough":"Manhattan",
+    "Total Population":"23,566",
+    "Hispanic Population":"13,726",
+    "Black Population":"6,096",
+    "Asian Population":"858"
+  },
+  {
+    "Neighborhoods":"Morningside Heights                                            ",
+    "Borough":"Manhattan",
+    "Total Population":"56,072",
+    "Hispanic Population":"13,046",
+    "Black Population":"6,693",
+    "Asian Population":"7,956"
+  },
+  {
+    "Neighborhoods":"Central Harlem South                                           ",
+    "Borough":"Manhattan",
+    "Total Population":"48,111",
+    "Hispanic Population":"8,457",
+    "Black Population":"27,809",
+    "Asian Population":"1,864"
+  },
+  {
+    "Neighborhoods":"Upper West Side                                                ",
+    "Borough":"Manhattan",
+    "Total Population":"136,393",
+    "Hispanic Population":"19,938",
+    "Black Population":"11,241",
+    "Asian Population":"9,851"
+  },
+  {
+    "Neighborhoods":"Hudson Yards-Chelsea-Flat Iron-Union Square                    ",
+    "Borough":"Manhattan",
+    "Total Population":"73,003",
+    "Hispanic Population":"10,710",
+    "Black Population":"4,342",
+    "Asian Population":"8,783"
+  },
+  {
+    "Neighborhoods":"Lincoln Square                                                 ",
+    "Borough":"Manhattan",
+    "Total Population":"59,879",
+    "Hispanic Population":"5,797",
+    "Black Population":"2,035",
+    "Asian Population":"6,733"
+  },
+  {
+    "Neighborhoods":"Clinton                                                        ",
+    "Borough":"Manhattan",
+    "Total Population":"41,647",
+    "Hispanic Population":"8,409",
+    "Black Population":"2,442",
+    "Asian Population":"5,386"
+  },
+  {
+    "Neighborhoods":"Midtown-Midtown South                                          ",
+    "Borough":"Manhattan",
+    "Total Population":"28,234",
+    "Hispanic Population":"2,121",
+    "Black Population":"1,121",
+    "Asian Population":"5,460"
+  },
+  {
+    "Neighborhoods":"Turtle Bay-East Midtown                                        ",
+    "Borough":"Manhattan",
+    "Total Population":"48,597",
+    "Hispanic Population":"3,553",
+    "Black Population":"966",
+    "Asian Population":"6,704"
+  },
+  {
+    "Neighborhoods":"Murray Hill-Kips Bay                                           ",
+    "Borough":"Manhattan",
+    "Total Population":"48,264",
+    "Hispanic Population":"5,306",
+    "Black Population":"2,177",
+    "Asian Population":"7,379"
+  },
+  {
+    "Neighborhoods":"Gramercy                                                       ",
+    "Borough":"Manhattan",
+    "Total Population":"26,864",
+    "Hispanic Population":"1,797",
+    "Black Population":"791",
+    "Asian Population":"3,217"
+  },
+  {
+    "Neighborhoods":"East Village                                                   ",
+    "Borough":"Manhattan",
+    "Total Population":"43,684",
+    "Hispanic Population":"4,927",
+    "Black Population":"2,291",
+    "Asian Population":"6,060"
+  },
+  {
+    "Neighborhoods":"West Village                                                   ",
+    "Borough":"Manhattan",
+    "Total Population":"66,550",
+    "Hispanic Population":"3,898",
+    "Black Population":"1,258",
+    "Asian Population":"5,870"
+  },
+  {
+    "Neighborhoods":"SoHo-TriBeCa-Civic Center-Little Italy                         ",
+    "Borough":"Manhattan",
+    "Total Population":"41,866",
+    "Hispanic Population":"2,401",
+    "Black Population":"861",
+    "Asian Population":"9,180"
+  },
+  {
+    "Neighborhoods":"Battery Park City-Lower Manhattan                              ",
+    "Borough":"Manhattan",
+    "Total Population":"40,594",
+    "Hispanic Population":"3,880",
+    "Black Population":"1,208",
+    "Asian Population":"8,208"
+  },
+  {
+    "Neighborhoods":"Chinatown                                                      ",
+    "Borough":"Manhattan",
+    "Total Population":"46,371",
+    "Hispanic Population":"5,977",
+    "Black Population":"1,946",
+    "Asian Population":"29,295"
+  },
+  {
+    "Neighborhoods":"Lower East Side                                                ",
+    "Borough":"Manhattan",
+    "Total Population":"75,660",
+    "Hispanic Population":"29,885",
+    "Black Population":"7,227",
+    "Asian Population":"19,186"
+  },
+  {
+    "Neighborhoods":"Lenox Hill-Roosevelt Island                                    ",
+    "Borough":"Manhattan",
+    "Total Population":"79,227",
+    "Hispanic Population":"5,784",
+    "Black Population":"3,679",
+    "Asian Population":"8,210"
+  },
+  {
+    "Neighborhoods":"Yorkville                                                      ",
+    "Borough":"Manhattan",
+    "Total Population":"78,036",
+    "Hispanic Population":"7,651",
+    "Black Population":"2,255",
+    "Asian Population":"6,741"
+  },
+  {
+    "Neighborhoods":"East Harlem South                                              ",
+    "Borough":"Manhattan",
+    "Total Population":"58,937",
+    "Hispanic Population":"25,635",
+    "Black Population":"14,259",
+    "Asian Population":"5,741"
+  },
+  {
+    "Neighborhoods":"East Harlem North                                              ",
+    "Borough":"Manhattan",
+    "Total Population":"58,820",
+    "Hispanic Population":"29,093",
+    "Black Population":"20,804",
+    "Asian Population":"2,943"
+  },
+  {
+    "Neighborhoods":"Washington Heights North                                       ",
+    "Borough":"Manhattan",
+    "Total Population":"73,111",
+    "Hispanic Population":"47,731",
+    "Black Population":"3,487",
+    "Asian Population":"2,092"
+  },
+  {
+    "Neighborhoods":"Washington Heights South                                       ",
+    "Borough":"Manhattan",
+    "Total Population":"88,211",
+    "Hispanic Population":"64,601",
+    "Black Population":"9,821",
+    "Asian Population":"2,319"
+  },
+  {
+    "Neighborhoods":"Upper East Side-Carnegie Hill                                  ",
+    "Borough":"Manhattan",
+    "Total Population":"58,745",
+    "Hispanic Population":"3,110",
+    "Black Population":"835",
+    "Asian Population":"3,067"
+  },
+  {
+    "Neighborhoods":"Stuyvesant Town-Cooper Village                                 ",
+    "Borough":"Manhattan",
+    "Total Population":"22,996",
+    "Hispanic Population":"1,655",
+    "Black Population":"799",
+    "Asian Population":"3,482"
+  },
+  {
+    "Neighborhoods":"park-cemetery-etc-Manhattan                                    ",
+    "Borough":"Manhattan",
+    "Total Population":"",
+    "Hispanic Population":"",
+    "Black Population":"",
+    "Asian Population":""
+  },
+  {
+    "Neighborhoods":"South Jamaica                                                  ",
+    "Borough":"Queens",
+    "Total Population":"39,008",
+    "Hispanic Population":"6,740",
+    "Black Population":"25,900",
+    "Asian Population":"2,540"
+  },
+  {
+    "Neighborhoods":"Springfield Gardens North                                      ",
+    "Borough":"Queens",
+    "Total Population":"26,525",
+    "Hispanic Population":"2,189",
+    "Black Population":"23,640",
+    "Asian Population":"214"
+  },
+  {
+    "Neighborhoods":"Springfield Gardens South-Brookville                           ",
+    "Borough":"Queens",
+    "Total Population":"20,077",
+    "Hispanic Population":"1,475",
+    "Black Population":"17,389",
+    "Asian Population":"363"
+  },
+  {
+    "Neighborhoods":"Rosedale                                                       ",
+    "Borough":"Queens",
+    "Total Population":"27,915",
+    "Hispanic Population":"2,097",
+    "Black Population":"23,171",
+    "Asian Population":"951"
+  },
+  {
+    "Neighborhoods":"Jamaica Estates-Holliswood                                     ",
+    "Borough":"Queens",
+    "Total Population":"25,944",
+    "Hispanic Population":"3,473",
+    "Black Population":"6,851",
+    "Asian Population":"7,835"
+  },
+  {
+    "Neighborhoods":"Hollis                                                         ",
+    "Borough":"Queens",
+    "Total Population":"20,479",
+    "Hispanic Population":"2,287",
+    "Black Population":"12,876",
+    "Asian Population":"3,130"
+  },
+  {
+    "Neighborhoods":"St. Albans                                                     ",
+    "Borough":"Queens",
+    "Total Population":"52,999",
+    "Hispanic Population":"3,681",
+    "Black Population":"46,457",
+    "Asian Population":"763"
+  },
+  {
+    "Neighborhoods":"Breezy Point-Belle Harbor-Rockaway Park-Broad                  ",
+    "Borough":"Queens",
+    "Total Population":"29,464",
+    "Hispanic Population":"3,456",
+    "Black Population":"2,184",
+    "Asian Population":"570"
+  },
+  {
+    "Neighborhoods":"Hammels-Arverne-Edgemere                                       ",
+    "Borough":"Queens",
+    "Total Population":"36,255",
+    "Hispanic Population":"9,260",
+    "Black Population":"18,472",
+    "Asian Population":"1,426"
+  },
+  {
+    "Neighborhoods":"Far Rockaway-Bayswater                                         ",
+    "Borough":"Queens",
+    "Total Population":"50,314",
+    "Hispanic Population":"12,915",
+    "Black Population":"21,733",
+    "Asian Population":"1,206"
+  },
+  {
+    "Neighborhoods":"Forest Hills                                                   ",
+    "Borough":"Queens",
+    "Total Population":"84,378",
+    "Hispanic Population":"11,025",
+    "Black Population":"2,262",
+    "Asian Population":"20,251"
+  },
+  {
+    "Neighborhoods":"Rego Park                                                      ",
+    "Borough":"Queens",
+    "Total Population":"27,895",
+    "Hispanic Population":"5,015",
+    "Black Population":"571",
+    "Asian Population":"8,068"
+  },
+  {
+    "Neighborhoods":"Glendale                                                       ",
+    "Borough":"Queens",
+    "Total Population":"31,948",
+    "Hispanic Population":"11,256",
+    "Black Population":"280",
+    "Asian Population":"1,146"
+  },
+  {
+    "Neighborhoods":"Ridgewood                                                      ",
+    "Borough":"Queens",
+    "Total Population":"69,901",
+    "Hispanic Population":"35,589",
+    "Black Population":"1,327",
+    "Asian Population":"5,656"
+  },
+  {
+    "Neighborhoods":"Middle Village                                                 ",
+    "Borough":"Queens",
+    "Total Population":"38,960",
+    "Hispanic Population":"5,985",
+    "Black Population":"381",
+    "Asian Population":"3,082"
+  },
+  {
+    "Neighborhoods":"Flushing                                                       ",
+    "Borough":"Queens",
+    "Total Population":"68,902",
+    "Hispanic Population":"10,937",
+    "Black Population":"2,536",
+    "Asian Population":"46,439"
+  },
+  {
+    "Neighborhoods":"College Point                                                  ",
+    "Borough":"Queens",
+    "Total Population":"24,470",
+    "Hispanic Population":"9,292",
+    "Black Population":"545",
+    "Asian Population":"7,301"
+  },
+  {
+    "Neighborhoods":"Corona                                                         ",
+    "Borough":"Queens",
+    "Total Population":"56,319",
+    "Hispanic Population":"34,214",
+    "Black Population":"8,473",
+    "Asian Population":"7,943"
+  },
+  {
+    "Neighborhoods":"North Corona                                                   ",
+    "Borough":"Queens",
+    "Total Population":"51,847",
+    "Hispanic Population":"44,775",
+    "Black Population":"2,043",
+    "Asian Population":"3,896"
+  },
+  {
+    "Neighborhoods":"East Elmhurst                                                  ",
+    "Borough":"Queens",
+    "Total Population":"23,743",
+    "Hispanic Population":"15,544",
+    "Black Population":"5,712",
+    "Asian Population":"1,087"
+  },
+  {
+    "Neighborhoods":"Jackson Heights                                                ",
+    "Borough":"Queens",
+    "Total Population":"105,339",
+    "Hispanic Population":"58,627",
+    "Black Population":"1,903",
+    "Asian Population":"24,657"
+  },
+  {
+    "Neighborhoods":"Elmhurst                                                       ",
+    "Borough":"Queens",
+    "Total Population":"85,855",
+    "Hispanic Population":"37,502",
+    "Black Population":"1,289",
+    "Asian Population":"39,854"
+  },
+  {
+    "Neighborhoods":"Maspeth                                                        ",
+    "Borough":"Queens",
+    "Total Population":"27,811",
+    "Hispanic Population":"7,772",
+    "Black Population":"233",
+    "Asian Population":"3,239"
+  },
+  {
+    "Neighborhoods":"Hunters Point-Sunnyside-West Maspeth                           ",
+    "Borough":"Queens",
+    "Total Population":"61,565",
+    "Hispanic Population":"20,575",
+    "Black Population":"1,083",
+    "Asian Population":"15,866"
+  },
+  {
+    "Neighborhoods":"Cambria Heights                                                ",
+    "Borough":"Queens",
+    "Total Population":"19,614",
+    "Hispanic Population":"863",
+    "Black Population":"17,710",
+    "Asian Population":"352"
+  },
+  {
+    "Neighborhoods":"Queens Village                                                 ",
+    "Borough":"Queens",
+    "Total Population":"57,958",
+    "Hispanic Population":"10,343",
+    "Black Population":"28,501",
+    "Asian Population":"10,750"
+  },
+  {
+    "Neighborhoods":"Briarwood-Jamaica Hills                                        ",
+    "Borough":"Queens",
+    "Total Population":"38,685",
+    "Hispanic Population":"10,648",
+    "Black Population":"4,179",
+    "Asian Population":"13,262"
+  },
+  {
+    "Neighborhoods":"Kew Gardens Hills                                              ",
+    "Borough":"Queens",
+    "Total Population":"38,218",
+    "Hispanic Population":"5,184",
+    "Black Population":"2,943",
+    "Asian Population":"8,962"
+  },
+  {
+    "Neighborhoods":"Pomonok-Flushing Heights-Hillcrest                             ",
+    "Borough":"Queens",
+    "Total Population":"33,183",
+    "Hispanic Population":"6,387",
+    "Black Population":"3,681",
+    "Asian Population":"10,895"
+  },
+  {
+    "Neighborhoods":"Fresh Meadows-Utopia                                           ",
+    "Borough":"Queens",
+    "Total Population":"18,305",
+    "Hispanic Population":"2,279",
+    "Black Population":"507",
+    "Asian Population":"9,074"
+  },
+  {
+    "Neighborhoods":"Oakland Gardens                                                ",
+    "Borough":"Queens",
+    "Total Population":"27,980",
+    "Hispanic Population":"1,977",
+    "Black Population":"418",
+    "Asian Population":"12,617"
+  },
+  {
+    "Neighborhoods":"Bellerose                                                      ",
+    "Borough":"Queens",
+    "Total Population":"27,046",
+    "Hispanic Population":"5,212",
+    "Black Population":"1,588",
+    "Asian Population":"10,290"
+  },
+  {
+    "Neighborhoods":"Glen Oaks-Floral Park-New Hyde Park                            ",
+    "Borough":"Queens",
+    "Total Population":"22,758",
+    "Hispanic Population":"1,784",
+    "Black Population":"807",
+    "Asian Population":"8,249"
+  },
+  {
+    "Neighborhoods":"Douglas Manor-Douglaston-Little Neck                           ",
+    "Borough":"Queens",
+    "Total Population":"25,191",
+    "Hispanic Population":"2,731",
+    "Black Population":"591",
+    "Asian Population":"9,598"
+  },
+  {
+    "Neighborhoods":"Bayside-Bayside Hills                                          ",
+    "Borough":"Queens",
+    "Total Population":"46,280",
+    "Hispanic Population":"6,297",
+    "Black Population":"787",
+    "Asian Population":"17,264"
+  },
+  {
+    "Neighborhoods":"Ft. Totten-Bay Terrace-Clearview                               ",
+    "Borough":"Queens",
+    "Total Population":"22,191",
+    "Hispanic Population":"2,138",
+    "Black Population":"107",
+    "Asian Population":"4,662"
+  },
+  {
+    "Neighborhoods":"Auburndale                                                     ",
+    "Borough":"Queens",
+    "Total Population":"20,716",
+    "Hispanic Population":"2,509",
+    "Black Population":"172",
+    "Asian Population":"8,921"
+  },
+  {
+    "Neighborhoods":"Whitestone                                                     ",
+    "Borough":"Queens",
+    "Total Population":"32,632",
+    "Hispanic Population":"5,008",
+    "Black Population":"172",
+    "Asian Population":"5,752"
+  },
+  {
+    "Neighborhoods":"Elmhurst-Maspeth                                               ",
+    "Borough":"Queens",
+    "Total Population":"26,016",
+    "Hispanic Population":"7,425",
+    "Black Population":"206",
+    "Asian Population":"14,225"
+  },
+  {
+    "Neighborhoods":"Murray Hill                                                    ",
+    "Borough":"Queens",
+    "Total Population":"52,121",
+    "Hispanic Population":"7,898",
+    "Black Population":"780",
+    "Asian Population":"28,566"
+  },
+  {
+    "Neighborhoods":"East Flushing                                                  ",
+    "Borough":"Queens",
+    "Total Population":"27,404",
+    "Hispanic Population":"4,241",
+    "Black Population":"367",
+    "Asian Population":"16,362"
+  },
+  {
+    "Neighborhoods":"Woodhaven                                                      ",
+    "Borough":"Queens",
+    "Total Population":"61,285",
+    "Hispanic Population":"33,286",
+    "Black Population":"3,029",
+    "Asian Population":"13,554"
+  },
+  {
+    "Neighborhoods":"Richmond Hill                                                  ",
+    "Borough":"Queens",
+    "Total Population":"64,569",
+    "Hispanic Population":"21,993",
+    "Black Population":"5,779",
+    "Asian Population":"19,762"
+  },
+  {
+    "Neighborhoods":"South Ozone Park                                               ",
+    "Borough":"Queens",
+    "Total Population":"81,547",
+    "Hispanic Population":"17,046",
+    "Black Population":"19,696",
+    "Asian Population":"18,722"
+  },
+  {
+    "Neighborhoods":"Ozone Park                                                     ",
+    "Borough":"Queens",
+    "Total Population":"22,572",
+    "Hispanic Population":"8,919",
+    "Black Population":"1,300",
+    "Asian Population":"5,473"
+  },
+  {
+    "Neighborhoods":"Lindenwood-Howard Beach                                        ",
+    "Borough":"Queens",
+    "Total Population":"28,094",
+    "Hispanic Population":"5,495",
+    "Black Population":"686",
+    "Asian Population":"696"
+  },
+  {
+    "Neighborhoods":"Kew Gardens                                                    ",
+    "Borough":"Queens",
+    "Total Population":"23,198",
+    "Hispanic Population":"5,920",
+    "Black Population":"1,877",
+    "Asian Population":"3,848"
+  },
+  {
+    "Neighborhoods":"Jamaica                                                        ",
+    "Borough":"Queens",
+    "Total Population":"54,053",
+    "Hispanic Population":"20,859",
+    "Black Population":"10,573",
+    "Asian Population":"15,630"
+  },
+  {
+    "Neighborhoods":"Queensboro Hill                                                ",
+    "Borough":"Queens",
+    "Total Population":"21,281",
+    "Hispanic Population":"3,862",
+    "Black Population":"250",
+    "Asian Population":"13,041"
+  },
+  {
+    "Neighborhoods":"Woodside                                                       ",
+    "Borough":"Queens",
+    "Total Population":"43,878",
+    "Hispanic Population":"15,325",
+    "Black Population":"659",
+    "Asian Population":"16,629"
+  },
+  {
+    "Neighborhoods":"Laurelton                                                      ",
+    "Borough":"Queens",
+    "Total Population":"26,070",
+    "Hispanic Population":"1,239",
+    "Black Population":"23,389",
+    "Asian Population":"340"
+  },
+  {
+    "Neighborhoods":"Queensbridge-Ravenswood-Long Island City                       ",
+    "Borough":"Queens",
+    "Total Population":"18,708",
+    "Hispanic Population":"7,847",
+    "Black Population":"4,113",
+    "Asian Population":"3,096"
+  },
+  {
+    "Neighborhoods":"Astoria                                                        ",
+    "Borough":"Queens",
+    "Total Population":"75,257",
+    "Hispanic Population":"20,390",
+    "Black Population":"3,672",
+    "Asian Population":"10,218"
+  },
+  {
+    "Neighborhoods":"Old Astoria                                                    ",
+    "Borough":"Queens",
+    "Total Population":"28,293",
+    "Hispanic Population":"8,694",
+    "Black Population":"2,896",
+    "Asian Population":"5,101"
+  },
+  {
+    "Neighborhoods":"Steinway                                                       ",
+    "Borough":"Queens",
+    "Total Population":"47,285",
+    "Hispanic Population":"10,036",
+    "Black Population":"876",
+    "Asian Population":"4,733"
+  },
+  {
+    "Neighborhoods":"Baisley Park                                                   ",
+    "Borough":"Queens",
+    "Total Population":"35,651",
+    "Hispanic Population":"4,597",
+    "Black Population":"26,733",
+    "Asian Population":"1,438"
+  },
+  {
+    "Neighborhoods":"Airport                                                        ",
+    "Borough":"Queens",
+    "Total Population":"",
+    "Hispanic Population":"",
+    "Black Population":"",
+    "Asian Population":""
+  },
+  {
+    "Neighborhoods":"park-cemetery-etc-Queens                                       ",
+    "Borough":"Queens",
+    "Total Population":"",
+    "Hispanic Population":"",
+    "Black Population":"",
+    "Asian Population":""
+  },
+  {
+    "Neighborhoods":"Annadale-Huguenot-Prince's Bay-Eltingville                     ",
+    "Borough":"Staten Island",
+    "Total Population":"28,638",
+    "Hispanic Population":"1,951",
+    "Black Population":"75",
+    "Asian Population":"1,021"
+  },
+  {
+    "Neighborhoods":"New Springville-Bloomfield-Travis                              ",
+    "Borough":"Staten Island",
+    "Total Population":"40,256",
+    "Hispanic Population":"5,251",
+    "Black Population":"1,920",
+    "Asian Population":"6,416"
+  },
+  {
+    "Neighborhoods":"Westerleigh                                                    ",
+    "Borough":"Staten Island",
+    "Total Population":"24,369",
+    "Hispanic Population":"3,326",
+    "Black Population":"608",
+    "Asian Population":"1,805"
+  },
+  {
+    "Neighborhoods":"Grymes Hill-Clifton-Fox Hills                                  ",
+    "Borough":"Staten Island",
+    "Total Population":"23,552",
+    "Hispanic Population":"5,856",
+    "Black Population":"7,969",
+    "Asian Population":"2,553"
+  },
+  {
+    "Neighborhoods":"Charleston-Richmond Valley-Tottenville                         ",
+    "Borough":"Staten Island",
+    "Total Population":"24,459",
+    "Hispanic Population":"3,069",
+    "Black Population":"540",
+    "Asian Population":"891"
+  },
+  {
+    "Neighborhoods":"Mariner's Harbor-Arlington-Port Ivory-Granite                  ",
+    "Borough":"Staten Island",
+    "Total Population":"29,947",
+    "Hispanic Population":"11,075",
+    "Black Population":"8,848",
+    "Asian Population":"2,361"
+  },
+  {
+    "Neighborhoods":"Grasmere-Arrochar-Ft. Wadsworth                                ",
+    "Borough":"Staten Island",
+    "Total Population":"15,077",
+    "Hispanic Population":"1,796",
+    "Black Population":"766",
+    "Asian Population":"2,149"
+  },
+  {
+    "Neighborhoods":"West New Brighton-New Brighton-St. George                      ",
+    "Borough":"Staten Island",
+    "Total Population":"31,847",
+    "Hispanic Population":"9,560",
+    "Black Population":"11,446",
+    "Asian Population":"1,531"
+  },
+  {
+    "Neighborhoods":"Todt Hill-Emerson Hill-Heartland Village-Ligh                  ",
+    "Borough":"Staten Island",
+    "Total Population":"31,268",
+    "Hispanic Population":"3,307",
+    "Black Population":"549",
+    "Asian Population":"4,631"
+  },
+  {
+    "Neighborhoods":"Oakwood-Oakwood Beach                                          ",
+    "Borough":"Staten Island",
+    "Total Population":"21,743",
+    "Hispanic Population":"2,546",
+    "Black Population":"631",
+    "Asian Population":"658"
+  },
+  {
+    "Neighborhoods":"Port Richmond                                                  ",
+    "Borough":"Staten Island",
+    "Total Population":"18,656",
+    "Hispanic Population":"5,909",
+    "Black Population":"3,216",
+    "Asian Population":"870"
+  },
+  {
+    "Neighborhoods":"Rossville-Woodrow                                              ",
+    "Borough":"Staten Island",
+    "Total Population":"20,297",
+    "Hispanic Population":"1,506",
+    "Black Population":"58",
+    "Asian Population":"1,016"
+  },
+  {
+    "Neighborhoods":"New Brighton-Silver Lake                                       ",
+    "Borough":"Staten Island",
+    "Total Population":"18,649",
+    "Hispanic Population":"4,809",
+    "Black Population":"2,044",
+    "Asian Population":"948"
+  },
+  {
+    "Neighborhoods":"Old Town-Dongan Hills-South Beach                              ",
+    "Borough":"Staten Island",
+    "Total Population":"25,292",
+    "Hispanic Population":"3,563",
+    "Black Population":"886",
+    "Asian Population":"2,421"
+  },
+  {
+    "Neighborhoods":"Stapleton-Rosebank                                             ",
+    "Borough":"Staten Island",
+    "Total Population":"26,904",
+    "Hispanic Population":"8,410",
+    "Black Population":"5,302",
+    "Asian Population":"2,511"
+  },
+  {
+    "Neighborhoods":"New Dorp-Midland Beach                                         ",
+    "Borough":"Staten Island",
+    "Total Population":"21,129",
+    "Hispanic Population":"3,236",
+    "Black Population":"344",
+    "Asian Population":"1,592"
+  },
+  {
+    "Neighborhoods":"Arden Heights                                                  ",
+    "Borough":"Staten Island",
+    "Total Population":"24,619",
+    "Hispanic Population":"2,829",
+    "Black Population":"257",
+    "Asian Population":"1,550"
+  },
+  {
+    "Neighborhoods":"Great Kills                                                    ",
+    "Borough":"Staten Island",
+    "Total Population":"43,521",
+    "Hispanic Population":"4,025",
+    "Black Population":"111",
+    "Asian Population":"1,555"
+  },
+  {
+    "Neighborhoods":"park-cemetery-etc-Staten Island                                ",
+    "Borough":"Staten Island",
+    "Total Population":"",
+    "Hispanic Population":"",
+    "Black Population":"",
+    "Asian Population":""
+  }
+]

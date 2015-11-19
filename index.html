@@ -17,14 +17,25 @@ path:hover {
   fill:red;  
 }
 
-#container{
-  width: 1000px;
+.margin{
+    margin: 50px;
 }
+/*#container{
+  width: 1000px;
+}*/
 
-#neighborhood_details{
+.neighborhood_info{
   width: 200px;
   margin-left: 100px;
   float: left;
+}
+
+#map{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1100px;
+    /*border: 3px solid #73AD21;*/
 }
 
 svg{
@@ -42,14 +53,18 @@ svg{
 </head>
 
 <body>
-  <div id="featured_neighborhoods">
-    <ul id="neighborhoods_list">
-      <li class="n_name">Upper West Side</li>
-      <li class="n_name">Clinton Hill</li>
-    </ul>
-  </div>
-  <div id="neighborhood_details">
-      <h2 id="name">Click on a neighborhood for details</h2>
+  
+  <div id="info">
+      <div id="neighborhood_details" class="neighborhood_info">
+        <h2 id="name">Click on a neighborhood for details</h2>
+        <div id="featured_neighborhoods">
+            <h3>Featured Neighborhoods</h3>
+            <ul id="neighborhoods_list">
+              <li class="n_name">Upper West Side</li>
+              <li class="n_name">Clinton Hill</li>
+            </ul>
+        </div>
+      </div>
   </div>
   <div id="map"></div>
  
@@ -106,8 +121,8 @@ var svg = d3.select("#map").append("svg")
       .on('click', function(){
         // What is the default?
         d3.event.preventDefault();
-        var name = $(this).text();
-        showData(name);
+        var el = $(this);
+        changeColor(el);
         }); 
   });
 
